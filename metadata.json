@@ -1,0 +1,6 @@
+{
+  "name": "Sorteos POS",
+  "description": "Sistema POS profesional de gestión y venta rápida de sorteos y loterías con soporte multi-sorteo, modalidades Chance/Palé y administración completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
